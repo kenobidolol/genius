@@ -1,6 +1,6 @@
 # Olá, Meu nome é Lucio Palacio
 
-Desenvolvi esse jogo Gênesis junto ao curso da [dio.me](https://www.dio.me/), um jogos simples para melhorar as habiliades JavaScript!
+Desenvolvi esse jogo Genius junto ao curso da [dio.me](https://www.dio.me/), um jogos simples para melhorar as habiliades JavaScript!
 
 ### Realizei algumas modificações ao meu gosto.
 
